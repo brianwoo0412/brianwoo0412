@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @brianwoo0412
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+About me:
+- Hello! My name is Brian Woo @brianwoo0412
+- Currently a Junior at the University at Buffalo
+- Pursing a BS degree in Computer Science and Engineering
 
-<!---
-brianwoo0412/brianwoo0412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Contact me:
+- Email me at brianwoo0412@gmail.com
